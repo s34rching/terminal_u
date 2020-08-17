@@ -1,0 +1,14 @@
+EXERCISE 1
+
+1. cd <folder_name>
+2. ls .
+3. ls -aF <nested_folder_name> > open <./<nested_folder_name>/<file_name>>
+4. cd ~
+5. cd <folder_name_a/folder_name_b>
+6. cd ..
+
+EXERCISE 2
+
+1. more <text_file>
+2. cat <text_file>
+3. less <text_file> > /<target_query>
