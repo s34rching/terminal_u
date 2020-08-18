@@ -1,0 +1,13 @@
+EXERCISE 1
+
+1. cp Ex3/*.txt Ex3/Stuff
+2. mv Ex3/a.xls Ex3/a1.xls
+3. mv Ex3/a.txt Ex3/atext.txt
+
+EXERCISE 2
+
+1. mv Ex3/a* Ex3/Stuff
+2. rm Ex3/Stuff/atext.txt
+3. cp -R Ex3/Stuff Ex3/stuff222
+4. ls -l Ex3/ > Ex3/atext.txt
+5. append Ex3/atext.txt Ex3/btext.txt
