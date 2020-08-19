@@ -1,0 +1,4 @@
+1. sudo rm d-folder/file1root.txt
+2. sudo zsh >>> sudo rm d-folder/*root.txt
+3. sudo chown <username> d-folder/file4root.txt >>> rm d-folder/file4root.txt
+4. chgrp <group_name> d-folder/file4root.txt
