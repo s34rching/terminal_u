@@ -1,0 +1,5 @@
+EXERCISE 1
+1. ls -a ~ | grep -ie ^p
+2. ls -a ~ | grep -ie p
+EXERCISE 2
+1. echo "alias l_sorted=\"ls -SlF\"" >> ~/.bash_profile
